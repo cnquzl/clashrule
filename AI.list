@@ -5,6 +5,10 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,Copilot
 DOMAIN-KEYWORD,bing
+
+# 全域名匹配
+DOMAIN,gateway-copilot.bingviz.microsoft.net
+DOMAIN,gateway-copilot.bingviz.microsoftapp.net
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
